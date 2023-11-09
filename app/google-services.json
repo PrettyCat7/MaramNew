@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869451409439",
+    "project_id": "maramnew-986c8",
+    "storage_bucket": "maramnew-986c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869451409439:android:dcbdda032227e82cb24d2a",
+        "android_client_info": {
+          "package_name": "com.example.maramnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXOtZsmVDkx_t9o2pPGGBTtlysMcpGpO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
